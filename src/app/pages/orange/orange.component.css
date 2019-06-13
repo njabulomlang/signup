@@ -1,0 +1,23 @@
+h2{
+    margin-left: 30px;
+    position: absolute;
+    color: white;
+}
+.kick h3{
+    margin-left: 30px;
+    color: white;  
+    position: relative;position: relative; top: 260px; left: -400px; transform: translate(70%, -50%); ;
+}
+p{
+    margin-left: 30px;
+    color: white;
+    position: relative;position: relative;top: 260px; left: -400px; transform: translate(70%, -50%);margin-top: -40px;
+    font-size: 12px;
+}
+a{
+    margin-left: 420px;
+    color: rgb(255, 255, 255);
+    position: relative;position: relative;top: 480px; left: -400px; transform: translate(70%, -50%); 
+font-size: 12px;
+}
+

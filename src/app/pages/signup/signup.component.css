@@ -1,0 +1,54 @@
+.card{
+    
+    position: relative; top: 200px; left: 280px; transform: translate(50%, -50%);
+    width: 350px;
+    border-radius: 15px;
+    padding-bottom: 30px;
+    height: 400px;
+}
+h5{
+    text-align: center;
+
+    
+}
+p{
+    text-align: center;
+    font-size: 12px;
+}
+a{
+    color: red;
+}
+button{
+    text-align: center;
+    border-radius: 20px;
+    width: 240px;
+    background-color: rgb(245, 10, 10);
+    border: 0;
+  margin-left: 40px;
+  font-size: 12px;
+}
+input{
+    border: 0;
+    border-bottom: 1px solid grey;
+    border-radius: 0;
+   padding: 20px 20px;
+}
+.underline{
+    width: 15px;
+    height: 3px;
+    background-color: orangered;
+    position: relative; top: 0px; left: 140px; transform: translate(50%, -50%);
+    border-radius: 4px;
+}
+.icons{
+    position: absolute;
+    max-height: 23px;
+    margin-left: 280px;
+    margin-top: 10px;
+    opacity: .6;
+  
+}
+.body{
+    background-color: whitesmoke;
+    height: 75vh;
+}
